@@ -5,7 +5,7 @@
 
 
 ## Description ##
- Ii s a comprehensive application designed to analyze various types of documents (text files, PDFs, images) and provide multiple analysis features including OCR, summarization, legal clause detection, translation, plagiarism checking, and more.
+ It s a comprehensive application designed to analyze various types of documents (text files, PDFs, images) and provide multiple analysis features including OCR, summarization, legal clause detection, translation, plagiarism checking, and more.
 
  
 ## Features ##
