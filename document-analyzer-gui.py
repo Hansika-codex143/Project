@@ -60,12 +60,11 @@ class DocumentAnalyzerGUI:
         ttk.Checkbutton(options_frame, text="Legal Analysis", variable=self.legal_var).grid(row=0, column=2, sticky=tk.W, padx=5, pady=5)
         
         # Second row of options
-        ttk.Checkbutton(options_frame, text="Sentiment Analysis", variable=self.sentiment_var).grid(row=1, column=0, sticky=tk.W, padx=5, pady=5)
-        ttk.Checkbutton(options_frame, text="Scan Barcodes/QR", variable=self.barcode_var).grid(row=1, column=1, sticky=tk.W, padx=5, pady=5)
+        #ttk.Checkbutton(options_frame, text="Scan Barcodes/QR", variable=self.barcode_var).grid(row=1, column=1, sticky=tk.W, padx=5, pady=5)
         ttk.Checkbutton(options_frame, text="Check Plagiarism", variable=self.plagiarism_var).grid(row=1, column=2, sticky=tk.W, padx=5, pady=5)
         
         # Third row with translation and recommendation
-        ttk.Checkbutton(options_frame, text="Generate Recommendations", variable=self.recommend_var).grid(row=2, column=0, sticky=tk.W, padx=5, pady=5)
+        #ttk.Checkbutton(options_frame, text="Generate Recommendations", variable=self.recommend_var).grid(row=2, column=0, sticky=tk.W, padx=5, pady=5)
         
         ttk.Label(options_frame, text="Translate to:").grid(row=2, column=1, sticky=tk.W, padx=5, pady=5)
         self.translate_var = tk.StringVar()
