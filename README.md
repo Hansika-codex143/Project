@@ -24,13 +24,13 @@ Run the following command to install all required dependencies automatically:
 
 ```sh
 python req.py
-
+```
 ### 2. Launch the Application
 Once the dependencies are installed, you can start the GUI interface by running:
 
 ```sh
 python document-analyzer-gui.py
-
+```
 
  ## Credits & Attributions ##
   1. Inspiration:
