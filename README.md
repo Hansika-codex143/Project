@@ -1,13 +1,11 @@
 # DOCUMENT ANALYZER #
 
 ## Problem Statement ##
- Manually analyzing documents for unfair clauses, plagiarism, errors,hidden risks is time-consuming and error-prone. Our tool automates this with AI-powered legal review, plagiarism detection, and OCR to save time, reduce risk, and ensure transparency in contracts and content.
-
+Many individuals struggle with text handling from diverse documents(pdf,images,and text files) as it is time-consuming and a complex task.Various difficulties arises while extracting meaningful information and veryfying originality.Language Barriers further complicate the process ,making it difficult to access,understand ,and authenticate information effectively. 
 
 ## Description ##
- It s a comprehensive application designed to analyze various types of documents (text files, PDFs, images) and provide multiple analysis features including OCR, summarization, legal clause detection, translation, plagiarism checking, and more.
+ It s a comprehensive application designed to analyze various types of documents (text files, PDFs, images) and provide multiple analysis features including text summarization,plagiarism checking, translation and more.
 
- 
 ## Features ##
  - OCR (Optical Character Recognition): Extract text from images and PDFs
  - Text Summarization: Generate concise summaries of documents
@@ -18,12 +16,21 @@
  - GUI Interface: User-friendly graphical interface for easy operation
 
 ## Installation & Setup ##
-1. Install Dependencies
- - Run the requirements script to automatically install all required packages:
- - python req.py
-2. Launch the Application
- - Start the GUI interface with:
- - python document-analyzer-gui.py
+Follow these steps to install and run the Document Analyzer application:
+
+### 1. Install Dependencies
+Ensure you have **Python 3.8 or later** installed on your system.  
+Run the following command to install all required dependencies automatically:
+
+```sh
+python req.py
+
+### 2. Launch the Application
+Once the dependencies are installed, you can start the GUI interface by running:
+
+```sh
+python document-analyzer-gui.py
+
 
  ## Credits & Attributions ##
   1. Inspiration:
