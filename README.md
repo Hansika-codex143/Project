@@ -1,7 +1,7 @@
 # DOCUMENT ANALYZER #
 
 ## Problem Statement ##
-Many individuals struggle with text handling from diverse documents(pdf,images,and text files) as it is time-consuming and a complex task.Various difficulties arise while extracting meaningful information and verifying originality.Language Barriers further complicate the process ,making it difficult to access,understand ,and authenticate information effectively. 
+Many individuals struggle with text handling from diverse documents(pdf,images,and text files) as it is time-consuming and a complex task.Various difficulties arise while extracting meaningful information and verifying originality.Language Barriers further complicate the process making it difficult to access,understand ,and authenticate information effectively. 
 
 ## Description ##
  It s a comprehensive application designed to analyze various types of documents (text files, PDFs, images) and provide multiple analysis features including text summarization,plagiarism checking, translation and more.
